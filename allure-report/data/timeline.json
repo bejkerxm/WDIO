@@ -1,0 +1,693 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "a6fb0760366ef092",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263477422,
+        "stop" : 1652263477915,
+        "duration" : 493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "ba617d707e3317b4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263477916,
+        "stop" : 1652263478542,
+        "duration" : 626
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "a9e1cc499692976e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260277463,
+        "stop" : 1652260278058,
+        "duration" : 595
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "20d0b9eda839953b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652263454321,
+        "stop" : 1652263472346,
+        "duration" : 18025
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "9dfb44b3f94b7d59",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260272704,
+        "stop" : 1652260277018,
+        "duration" : 4314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "bdc8e2dd52b396dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261307696,
+        "stop" : 1652261309189,
+        "duration" : 1493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "6d3e3ab7c53f939d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263478542,
+        "stop" : 1652263480059,
+        "duration" : 1517
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "c57f2212a683be4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261307304,
+        "stop" : 1652261307695,
+        "duration" : 391
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "f72af3d84f1d30f2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260278058,
+        "stop" : 1652260279421,
+        "duration" : 1363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "5c5c3aca51468630",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261306941,
+        "stop" : 1652261307304,
+        "duration" : 363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "e575381924dc8058",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261847117,
+        "stop" : 1652261854066,
+        "duration" : 6949
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "1090b6633656607d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260277018,
+        "stop" : 1652260277463,
+        "duration" : 445
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "8a679e0c3850adde",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261864275,
+        "stop" : 1652261865096,
+        "duration" : 821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "8fea75f4c0347297",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261854066,
+        "stop" : 1652261863832,
+        "duration" : 9766
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "b3cac0135e31816e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261865097,
+        "stop" : 1652261866819,
+        "duration" : 1722
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "3e0bde85d4d4fd18",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261295610,
+        "stop" : 1652261303395,
+        "duration" : 7785
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "2067c39b9019bc4d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263472347,
+        "stop" : 1652263477422,
+        "duration" : 5075
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "9bd98d7194950536",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261863832,
+        "stop" : 1652261864275,
+        "duration" : 443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "9d9f6daf61abb81e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261303395,
+        "stop" : 1652261306941,
+        "duration" : 3546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "f8625f39949da4ef",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260265792,
+        "stop" : 1652260272703,
+        "duration" : 6911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "Open URL & assert title",
+      "uid" : "34bdf0004bab2224",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260267837,
+        "stop" : 1652260273160,
+        "duration" : 5323
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "457166fabc502fa1",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263473590,
+        "stop" : 1652263477128,
+        "duration" : 3538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "39aea87d2fe83a43",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260276862,
+        "stop" : 1652260277375,
+        "duration" : 513
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "9c057a559c642b40",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261864008,
+        "stop" : 1652261864529,
+        "duration" : 521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "6a8cde88e36853cb",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260277375,
+        "stop" : 1652260277768,
+        "duration" : 393
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "c25eebfd0c26b8",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1652263456429,
+        "stop" : 1652263473586,
+        "duration" : 17157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "c5969c12e7a7b8be",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261306303,
+        "stop" : 1652261306628,
+        "duration" : 325
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "91bd1ea1a4eea698",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261302668,
+        "stop" : 1652261305392,
+        "duration" : 2724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "9fbecf57792f2448",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261297729,
+        "stop" : 1652261302668,
+        "duration" : 4939
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open URL & assert title",
+      "uid" : "ed270fd294c92d5",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261849239,
+        "stop" : 1652261857377,
+        "duration" : 8138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "b9817c06c420d5f6",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261857378,
+        "stop" : 1652261864007,
+        "duration" : 6629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "1f01b158a5163bb4",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263477584,
+        "stop" : 1652263478210,
+        "duration" : 626
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "63542995437b7a1f",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260276464,
+        "stop" : 1652260276862,
+        "duration" : 398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "853f074b389f2ac1",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263477129,
+        "stop" : 1652263477584,
+        "duration" : 455
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "cd8d8ceb3840ddb0",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652263478210,
+        "stop" : 1652263478563,
+        "duration" : 353
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "69cbd7ee441230d8",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261305772,
+        "stop" : 1652261306303,
+        "duration" : 531
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click on logo and assert that url doesnt contain get started",
+      "uid" : "87223cacd2896d28",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261864529,
+        "stop" : 1652261865480,
+        "duration" : 951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Click get started and assert url contains get started",
+      "uid" : "444a6f9b79d6291a",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261305393,
+        "stop" : 1652261305772,
+        "duration" : 379
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Open about page and assert url",
+      "uid" : "a1d259c6a0da9f57",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260273160,
+        "stop" : 1652260276463,
+        "duration" : 3303
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    }, {
+      "name" : "Find heading element and assert txt",
+      "uid" : "134511a22c1b8abe",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261865481,
+        "stop" : 1652261865932,
+        "duration" : 451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-91.9.0" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  } ]
+}

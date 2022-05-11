@@ -1,0 +1,86 @@
+{
+  "uid" : "2067c39b9019bc4d",
+  "name" : "Open about page and assert url",
+  "fullName" : "Home.Open about page and assert url",
+  "historyId" : "33363cf99e37220ed5bd220cbe8b866e",
+  "time" : {
+    "start" : 1652263472347,
+    "stop" : 1652263477422,
+    "duration" : 5075
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open about page and assert url"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8fea75f4c0347297",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261854066,
+        "stop" : 1652261863832,
+        "duration" : 9766
+      }
+    }, {
+      "uid" : "9d9f6daf61abb81e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261303395,
+        "stop" : 1652261306941,
+        "duration" : 3546
+      }
+    }, {
+      "uid" : "9dfb44b3f94b7d59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260272704,
+        "stop" : 1652260277018,
+        "duration" : 4314
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2067c39b9019bc4d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

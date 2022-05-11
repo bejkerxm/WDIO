@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652261297728' stop='1652261306628'>
+    <name>Home</name>
+    <title>Home</title>
+    <test-cases>
+        <test-case start='1652261297729' status='passed' stop='1652261302668'>
+            <name>Open URL &amp; assert title</name>
+            <title>Open URL &amp; assert title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652261302668' status='passed' stop='1652261305392'>
+            <name>Open about page and assert url</name>
+            <title>Open about page and assert url</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652261305393' status='passed' stop='1652261305772'>
+            <name>Click get started and assert url contains get started</name>
+            <title>Click get started and assert url contains get started</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652261305772' status='passed' stop='1652261306303'>
+            <name>Click on logo and assert that url doesnt contain get started</name>
+            <title>Click on logo and assert that url doesnt contain get started</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+                <label name='severity' value='minor'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652261306303' status='passed' stop='1652261306628'>
+            <name>Find heading element and assert txt</name>
+            <title>Find heading element and assert txt</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+                <parameter kind='argument' name='browser' value='firefox-91.9.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

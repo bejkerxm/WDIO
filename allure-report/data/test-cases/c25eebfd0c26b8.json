@@ -1,0 +1,92 @@
+{
+  "uid" : "c25eebfd0c26b8",
+  "name" : "Open URL & assert title",
+  "fullName" : "Home.Open URL & assert title",
+  "historyId" : "325725181c8f1d42c69fab15574b5569",
+  "time" : {
+    "start" : 1652263456429,
+    "stop" : 1652263473586,
+    "duration" : 17157
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect window to have title\n                \n                Expected: \"Practice E-Commerce Site – Automation Bro!\"\n                Received: \"Practice E-Commerce Site – Automation Bro\"",
+  "statusTrace" : "Error: Expect window to have title\n                \n                Expected: \"Practice E-Commerce Site – Automation Bro!\"\n                Received: \"Practice E-Commerce Site – Automation Bro\"\n                    at Context.<anonymous> (C:\\Users\\mbasiak\\Desktop\\JS\\WIO JS\\test\\specs\\/home.js:10:25)\n                    at Context.executeAsync (C:\\Users\\mbasiak\\Desktop\\JS\\WIO JS\\node_modules\\@wdio\\utils\\build\\shim.js:331:27)\n                    at Context.testFrameworkFnWrapper (C:\\Users\\mbasiak\\Desktop\\JS\\WIO JS\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open URL & assert title"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ed270fd294c92d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261849239,
+        "stop" : 1652261857377,
+        "duration" : 8138
+      }
+    }, {
+      "uid" : "9fbecf57792f2448",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261297729,
+        "stop" : 1652261302668,
+        "duration" : 4939
+      }
+    }, {
+      "uid" : "34bdf0004bab2224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260267837,
+        "stop" : 1652260273160,
+        "duration" : 5323
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c25eebfd0c26b8.json",
+  "parameterValues" : [ "firefox-91.9.0" ]
+}

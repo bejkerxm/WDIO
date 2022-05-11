@@ -1,0 +1,86 @@
+{
+  "uid" : "cd8d8ceb3840ddb0",
+  "name" : "Find heading element and assert txt",
+  "fullName" : "Home.Find heading element and assert txt",
+  "historyId" : "3d9a186c68e45574faa5eb7fe50ebaf",
+  "time" : {
+    "start" : 1652263478210,
+    "stop" : 1652263478563,
+    "duration" : 353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Find heading element and assert txt"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "134511a22c1b8abe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261865481,
+        "stop" : 1652261865932,
+        "duration" : 451
+      }
+    }, {
+      "uid" : "c5969c12e7a7b8be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261306303,
+        "stop" : 1652261306628,
+        "duration" : 325
+      }
+    }, {
+      "uid" : "6a8cde88e36853cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260277375,
+        "stop" : 1652260277768,
+        "duration" : 393
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd8d8ceb3840ddb0.json",
+  "parameterValues" : [ "firefox-91.9.0" ]
+}

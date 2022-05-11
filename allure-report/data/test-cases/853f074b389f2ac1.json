@@ -1,0 +1,86 @@
+{
+  "uid" : "853f074b389f2ac1",
+  "name" : "Click get started and assert url contains get started",
+  "fullName" : "Home.Click get started and assert url contains get started",
+  "historyId" : "a57a1e0f66448346958b2bf83e7e9c61",
+  "time" : {
+    "start" : 1652263477129,
+    "stop" : 1652263477584,
+    "duration" : 455
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click get started and assert url contains get started"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c057a559c642b40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261864008,
+        "stop" : 1652261864529,
+        "duration" : 521
+      }
+    }, {
+      "uid" : "444a6f9b79d6291a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261305393,
+        "stop" : 1652261305772,
+        "duration" : 379
+      }
+    }, {
+      "uid" : "63542995437b7a1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260276464,
+        "stop" : 1652260276862,
+        "duration" : 398
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "853f074b389f2ac1.json",
+  "parameterValues" : [ "firefox-91.9.0" ]
+}

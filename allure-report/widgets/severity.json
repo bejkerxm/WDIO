@@ -1,0 +1,101 @@
+[ {
+  "uid" : "457166fabc502fa1",
+  "name" : "Open about page and assert url",
+  "time" : {
+    "start" : 1652263473590,
+    "stop" : 1652263477128,
+    "duration" : 3538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2067c39b9019bc4d",
+  "name" : "Open about page and assert url",
+  "time" : {
+    "start" : 1652263472347,
+    "stop" : 1652263477422,
+    "duration" : 5075
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20d0b9eda839953b",
+  "name" : "Open URL & assert title",
+  "time" : {
+    "start" : 1652263454321,
+    "stop" : 1652263472346,
+    "duration" : 18025
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d3e3ab7c53f939d",
+  "name" : "Find heading element and assert txt",
+  "time" : {
+    "start" : 1652263478542,
+    "stop" : 1652263480059,
+    "duration" : 1517
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c25eebfd0c26b8",
+  "name" : "Open URL & assert title",
+  "time" : {
+    "start" : 1652263456429,
+    "stop" : 1652263473586,
+    "duration" : 17157
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f01b158a5163bb4",
+  "name" : "Click on logo and assert that url doesnt contain get started",
+  "time" : {
+    "start" : 1652263477584,
+    "stop" : 1652263478210,
+    "duration" : 626
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "853f074b389f2ac1",
+  "name" : "Click get started and assert url contains get started",
+  "time" : {
+    "start" : 1652263477129,
+    "stop" : 1652263477584,
+    "duration" : 455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6fb0760366ef092",
+  "name" : "Click get started and assert url contains get started",
+  "time" : {
+    "start" : 1652263477422,
+    "stop" : 1652263477915,
+    "duration" : 493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8d8ceb3840ddb0",
+  "name" : "Find heading element and assert txt",
+  "time" : {
+    "start" : 1652263478210,
+    "stop" : 1652263478563,
+    "duration" : 353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba617d707e3317b4",
+  "name" : "Click on logo and assert that url doesnt contain get started",
+  "time" : {
+    "start" : 1652263477916,
+    "stop" : 1652263478542,
+    "duration" : 626
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expect window to have title\n                \n                Expected: \"Practice E-Commerce Site – Automation Bro!\"\n                Received: \"Practice E-Commerce Site – Automation Bro\"",
+      "children" : [ {
+        "name" : "Open URL & assert title",
+        "uid" : "20d0b9eda839953b",
+        "parentUid" : "a63e1a2b2854cff3a7007c89b0f3d15f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652263454321,
+          "stop" : 1652263472346,
+          "duration" : 18025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Open URL & assert title",
+        "uid" : "c25eebfd0c26b8",
+        "parentUid" : "a63e1a2b2854cff3a7007c89b0f3d15f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652263456429,
+          "stop" : 1652263473586,
+          "duration" : 17157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ "firefox-91.9.0" ]
+      } ],
+      "uid" : "a63e1a2b2854cff3a7007c89b0f3d15f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

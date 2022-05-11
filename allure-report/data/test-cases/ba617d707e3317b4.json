@@ -1,0 +1,92 @@
+{
+  "uid" : "ba617d707e3317b4",
+  "name" : "Click on logo and assert that url doesnt contain get started",
+  "fullName" : "Home.Click on logo and assert that url doesnt contain get started",
+  "historyId" : "ee8ef5bbe044becb088f090ee3eabbea",
+  "time" : {
+    "start" : 1652263477916,
+    "stop" : 1652263478542,
+    "duration" : 626
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Logo verification"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click on logo and assert that url doesnt contain get started"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ {
+      "uid" : "8a679e0c3850adde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261864275,
+        "stop" : 1652261865096,
+        "duration" : 821
+      }
+    }, {
+      "uid" : "c57f2212a683be4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652261307304,
+        "stop" : 1652261307695,
+        "duration" : 391
+      }
+    }, {
+      "uid" : "a9e1cc499692976e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652260277463,
+        "stop" : 1652260278058,
+        "duration" : 595
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba617d707e3317b4.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
